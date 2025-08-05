@@ -90,9 +90,9 @@ python hw2_part2.py music-small.db
 
 ## Contributors
 
-- Alexander Pegot-Ogier (ap9283)
-- Nikolaos Prasinos (np3106)
-- Kyeongmo Kang (kk5739)
+- Kyeongmo Kang 
+- Nikolaos Prasinos 
+- Alexander Pegot-Ogier 
 
 ## License
 
